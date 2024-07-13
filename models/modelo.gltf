@@ -1,0 +1,902 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.3.2"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 2880,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 559,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.5, -0.5, -0.49999994 ],
+			"max": [ 0.5, 0.5, 0.5 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 559,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 559,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 559,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 559,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 3456,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 7,
+			"count": 2304,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.25, -0.250000179, -1.25 ],
+			"max": [ 1.25, 0.250000179, 1.25 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 2304,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 2304,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 2304,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 2304,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 13,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 14,
+			"count": 0,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 186,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 18,
+			"count": 128,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1, -1.00000012, -0.999999821 ],
+			"max": [ 1, 1, 1.00000012 ]
+		},
+		{
+			"bufferView": 19,
+			"count": 128,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 20,
+			"count": 128,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 21,
+			"count": 128,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 128,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 24,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 25,
+			"count": 0,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 26,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "modelo.bin",
+			"byteLength": 180356
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 5760,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6708,
+			"byteOffset": 5760,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6708,
+			"byteOffset": 12468,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8944,
+			"byteOffset": 19176,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4472,
+			"byteOffset": 28120,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4472,
+			"byteOffset": 32592,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6912,
+			"byteOffset": 37064,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 27648,
+			"byteOffset": 43976,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 27648,
+			"byteOffset": 71624,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 36864,
+			"byteOffset": 99272,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 18432,
+			"byteOffset": 136136,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 18432,
+			"byteOffset": 154568,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 173000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 173000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 173000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 173000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 173000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 186,
+			"byteOffset": 173000,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1536,
+			"byteOffset": 173188,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1536,
+			"byteOffset": 174724,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2048,
+			"byteOffset": 176260,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1024,
+			"byteOffset": 178308,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1024,
+			"byteOffset": 179332,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 180356,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 180356,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 180356,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 180356,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 180356,
+			"target": 34962
+		}
+	],
+	"cameras": [
+		{
+			"name": "CameraComponent",
+			"type": "perspective",
+			"perspective":
+			{
+				"aspectRatio": 1.77777779,
+				"yfov": 0.377315938,
+				"znear": 0.099999994
+			}
+		}
+	],
+	"images": [
+		{
+			"uri": "BoneWeightMaterial_Emissive.png"
+		},
+		{
+			"uri": "DefaultMaterial_BaseColor.png"
+		},
+		{
+			"uri": "DefaultMaterial_MetallicRoughness.png"
+		},
+		{
+			"uri": "DefaultMaterial_Normal.png"
+		},
+		{
+			"uri": "carpaint2_Inst_dona_BaseColor.png"
+		},
+		{
+			"uri": "carpaint2_Inst_dona_MetallicRoughness.png"
+		},
+		{
+			"uri": "carpaint2_Inst_cono_BaseColor.png"
+		},
+		{
+			"uri": "carpaint2_Inst_cono_MetallicRoughness.png"
+		},
+		{
+			"uri": "carpaint2_Inst_Sphere_BaseColor.png"
+		},
+		{
+			"uri": "carpaint2_Inst_Sphere_MetallicRoughness.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "DefaultLightFunctionMaterial",
+			"pbrMetallicRoughness":
+			{
+			},
+			"extensions":
+			{
+				"KHR_materials_unlit":
+				{
+				}
+			}
+		},
+		{
+			"name": "DefaultPostProcessMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0, 0, 0, 1 ]
+			},
+			"extensions":
+			{
+				"KHR_materials_unlit":
+				{
+				}
+			}
+		},
+		{
+			"name": "BoneWeightMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0, 0, 0, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"emissiveTexture":
+			{
+				"index": 0
+			},
+			"emissiveFactor": [ 1, 1, 1 ]
+		},
+		{
+			"name": "DefaultMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 2
+				}
+			},
+			"normalTexture":
+			{
+				"index": 3
+			}
+		},
+		{
+			"name": "carpaint2_Inst_dona",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 4,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00819843821, -0.00819843821 ],
+							"scale": [ 1.01663733, 1.01663733 ]
+						}
+					}
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 5,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00819843821, -0.00819843821 ],
+							"scale": [ 1.01663733, 1.01663733 ]
+						}
+					}
+				}
+			}
+		},
+		{
+			"name": "carpaint2_Inst_dona",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 1, 0, 1, 1 ]
+			},
+			"emissiveFactor": [ 1, 0, 1 ]
+		},
+		{
+			"name": "carpaint2_Inst_cono",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 6,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00820250995, -0.00833918527 ],
+							"scale": [ 1.0171423, 1.03409052 ]
+						}
+					}
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 7,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00820250995, -0.00833918527 ],
+							"scale": [ 1.0171423, 1.03409052 ]
+						}
+					}
+				}
+			}
+		},
+		{
+			"name": "carpaint2_Inst_cono",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 1, 0, 1, 1 ]
+			},
+			"emissiveFactor": [ 1, 0, 1 ]
+		},
+		{
+			"name": "carpaint2_Inst_Sphere",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 8,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00781153142, -0.00781153142 ],
+							"scale": [ 1.01574707, 1.01574707 ]
+						}
+					}
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 9,
+					"texCoord": 1,
+					"extensions":
+					{
+						"KHR_texture_transform":
+						{
+							"offset": [ -0.00781153142, -0.00781153142 ],
+							"scale": [ 1.01574707, 1.01574707 ]
+						}
+					}
+				}
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "sphere3",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 3,
+					"extensions":
+					{
+						"KHR_materials_variants":
+						{
+							"mappings": [
+								{
+									"material": 0,
+									"variants": [ 0 ]
+								},
+								{
+									"material": 1,
+									"variants": [ 1 ]
+								},
+								{
+									"material": 2,
+									"variants": [ 2 ]
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "dona",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 4
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 12,
+						"NORMAL": 13,
+						"TANGENT": 14,
+						"TEXCOORD_0": 15,
+						"TEXCOORD_1": 16
+					},
+					"material": 5
+				}
+			]
+		},
+		{
+			"name": "cono",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 18,
+						"NORMAL": 19,
+						"TANGENT": 20,
+						"TEXCOORD_0": 21,
+						"TEXCOORD_1": 22
+					},
+					"indices": 17,
+					"material": 6
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 23,
+						"NORMAL": 24,
+						"TANGENT": 25,
+						"TEXCOORD_0": 26,
+						"TEXCOORD_1": 27
+					},
+					"material": 7
+				}
+			]
+		},
+		{
+			"name": "Sphere",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 8
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "Brush1"
+		},
+		{
+			"name": "DirectionalLight",
+			"translation": [ -0.377529293, 0.49999994, -0.253594369 ],
+			"rotation": [ 0.241842389, -0.664463341, -0.241843209, 0.664464176 ],
+			"scale": [ 2.5, 2.5, 2.5 ],
+			"children": [ 2 ]
+		},
+		{
+			"name": "DirectionalLight",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"extensions":
+			{
+				"KHR_lights_punctual":
+				{
+					"light": 0
+				}
+			}
+		},
+		{
+			"name": "SkyLight",
+			"translation": [ 0.122469477, -0.399999976, 1.0919503 ]
+		},
+		{
+			"name": "TrackedParent",
+			"children": [ 10, 13, 14, 15, 16, 19, 20 ]
+		},
+		{
+			"name": "PointLight",
+			"translation": [ 0, 0.699999988, 0 ],
+			"children": [ 6 ]
+		},
+		{
+			"name": "PointLight",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"extensions":
+			{
+				"KHR_lights_punctual":
+				{
+					"light": 1
+				}
+			}
+		},
+		{
+			"name": "RectLight",
+			"translation": [ -0.899999976, 0, 0 ],
+			"scale": [ 0.200000003, 0.200000003, 0.200000003 ],
+			"children": [ 8 ]
+		},
+		{
+			"name": "RectLight",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ]
+		},
+		{
+			"name": "DefaultPhysicsVolume0"
+		},
+		{
+			"name": "shapesconfig",
+			"translation": [ 0, 0.099999994, 0 ],
+			"scale": [ 0.100000001, 0.100000001, 0.100000001 ],
+			"children": [ 11, 12 ]
+		},
+		{
+			"name": "dona",
+			"mesh": 1
+		},
+		{
+			"name": "cono",
+			"mesh": 2
+		},
+		{
+			"name": "VM_shapes",
+			"translation": [ 0, 0, 0.399999976 ]
+		},
+		{
+			"name": "BP_Configurator"
+		},
+		{
+			"name": "Sphere",
+			"translation": [ 0, 0.049999997, 0 ],
+			"scale": [ 0.100000001, 0.100000001, 0.100000001 ],
+			"mesh": 3
+		},
+		{
+			"name": "CineCameraActor",
+			"translation": [ -0.699999988, 0.099999994, 0 ],
+			"rotation": [ -0, -0, -0.0708890185, 0.997484207 ],
+			"children": [ 17 ]
+		},
+		{
+			"name": "CameraComponent",
+			"children": [ 18 ]
+		},
+		{
+			"name": "CameraComponent",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"camera": 0
+		},
+		{
+			"name": "camaratracker"
+		},
+		{
+			"name": "sphere3",
+			"translation": [ 0, 0, 0.199999988 ],
+			"scale": [ 0.0500000007, 0.0500000007, 0.0500000007 ],
+			"mesh": 0
+		},
+		{
+			"name": "AbstractNavData-Default"
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "MINITEST2",
+			"nodes": [ 0, 1, 3, 4, 5, 7, 9, 21 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "BoneWeightMaterial_Emissive",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "DefaultMaterial_BaseColor",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "DefaultMaterial_MetallicRoughness",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "DefaultMaterial_Normal",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "carpaint2_Inst_dona_BaseColor",
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"name": "carpaint2_Inst_dona_MetallicRoughness",
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"name": "carpaint2_Inst_cono_BaseColor",
+			"sampler": 0,
+			"source": 6
+		},
+		{
+			"name": "carpaint2_Inst_cono_MetallicRoughness",
+			"sampler": 0,
+			"source": 7
+		},
+		{
+			"name": "carpaint2_Inst_Sphere_BaseColor",
+			"sampler": 0,
+			"source": 8
+		},
+		{
+			"name": "carpaint2_Inst_Sphere_MetallicRoughness",
+			"sampler": 0,
+			"source": 9
+		}
+	],
+	"extensions":
+	{
+		"KHR_materials_variants":
+		{
+			"variants": [
+				{
+					"name": "verde"
+				},
+				{
+					"name": "azul"
+				},
+				{
+					"name": "amarillo"
+				}
+			]
+		},
+		"KHR_lights_punctual":
+		{
+			"lights": [
+				{
+					"name": "DirectionalLight",
+					"type": "directional"
+				},
+				{
+					"name": "PointLight",
+					"type": "point",
+					"intensity": 10,
+					"range": 0.60741812
+				}
+			]
+		}
+	},
+	"extensionsUsed": [
+		"KHR_materials_unlit",
+		"KHR_texture_transform",
+		"KHR_materials_variants",
+		"KHR_lights_punctual"
+	]
+}
