@@ -21,7 +21,9 @@
   <body>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/AR-js-org/AR.js/aframe/build/aframe-ar.js"></script>
-    <a-scene embedded arjs="sourceType: webcam;">
+   </head>
+<body style="margin : 0px; overflow: hidden;">
+<a-scene embedded arjs>
       <a-marker preset="hiro">
         <a-entity gltf-model="#model" scale="0.5 0.5 0.5"></a-entity>
       </a-marker>
