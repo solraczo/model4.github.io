@@ -7,7 +7,7 @@
 <body style="margin : 0px; overflow: hidden;">
 <a-scene embedded arjs>
       <a-marker preset="hiro">
-        <a-entity gltf-model="#model" scale="1.0 1.0 1.0"></a-entity>
+        <a-entity gltf-model="#model" scale="0.5 0.5 0.5"></a-entity>
       </a-marker>
       <a-entity camera></a-entity>
     </a-scene>
@@ -15,7 +15,7 @@
       document.querySelector("a-scene").addEventListener("loaded", () => {
         const loader = new THREE.GLTFLoader();
         loader.load(
-          "./models/car1.glb",
+          "./models/car2.glb",
           (gltf) => {
             document
               .querySelector("a-entity[gltf-model]")
